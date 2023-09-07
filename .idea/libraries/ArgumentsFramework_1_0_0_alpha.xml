@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ArgumentsFramework-1.0.0-alpha">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ArgumentsFramework-1.0.0-alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
